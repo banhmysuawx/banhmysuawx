@@ -5,7 +5,7 @@
 # 💫 About Me:
 # Dinh Truong Quang
 
-Hello! 👋 I'm Quang Dinh, a dedicated Python Developer with over two years of experience in web systems development.
+Hello! 👋 I'm Quang Dinh, a dedicated Python Developer with over 3️⃣ years of experience in web systems development.
 
 - 💻 Passionate about Python, Django, and crafting efficient, scalable applications.
 - 🌐 Skilled in web development, data science, and machine learning.
